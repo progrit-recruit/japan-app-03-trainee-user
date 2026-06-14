@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "実習サポート",
+    "slug": "trainee-user",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "web": { "bundler": "metro" }
+  }
+}
